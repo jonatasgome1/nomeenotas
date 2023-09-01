@@ -14,6 +14,7 @@ import ListaNomesENotas from "./components/ListaNomesENotas.vue";
 export default {
   components: {
     NomeENotas,
+    
     ListaNomesENotas,
   },
   data() {

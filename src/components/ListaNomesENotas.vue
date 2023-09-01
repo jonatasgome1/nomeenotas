@@ -4,7 +4,6 @@
   
       <h3>Reprovados</h3>
       <ul>
-        
         <li v-for="(item, index) in reprovados" :key="index">
           <strong>{{ item.nome }}:</strong> {{ item.nota }}
         </li>

@@ -1,6 +1,6 @@
 <template>
     <div>
-      
+  
       <h2>Insira o Nome e as Notas</h2>
       <form @submit.prevent="adicionarNomeENotas">
         <label for="nome">Nome:</label>

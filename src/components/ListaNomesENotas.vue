@@ -1,7 +1,7 @@
 <template>
     <div>
       <h2>Lista de Nomes e Notas</h2>
-      
+    
       <h3>Reprovados</h3>
       <ul>
         

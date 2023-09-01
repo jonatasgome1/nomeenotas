@@ -7,6 +7,7 @@
 </template>
 
 <script>
+
 import NomeENotas from "./components/NomeENotas.vue";
 import ListaNomesENotas from "./components/ListaNomesENotas.vue";
 
